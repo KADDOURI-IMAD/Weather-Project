@@ -1,0 +1,9 @@
+body {
+  background: linear-gradient(to bottom right, #444, #222);
+  color: #fff; /* Set text color to white */
+  font-family: Arial, sans-serif; /* Choose a font */
+  margin: 0; /* Remove default margin */
+  padding: 0; /* Remove default padding */
+  height: 100vh; /* Ensure full viewport height */
+  background-attachment: fixed; /* Ensure the background stays fixed */
+}
